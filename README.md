@@ -1,5 +1,4 @@
-## Hi there 👋
-## I'm Tarek Aljamal
+## Hi there 👋 I'm Tarek Aljamal
 
 <!--
 **TarekAljamal/TarekAljamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
